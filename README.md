@@ -28,6 +28,7 @@ Creare un sito semplice e funzionale, che rispetti i principi base del **web des
 
 1. Scarica o clona il repository
 2. Apri `index.html` con un browser web
+3. https://rossozafferano.netlify.app/
 
 ---
 
